@@ -1,0 +1,8 @@
+{
+    "Accept" : "application/json",
+    "Content-Type": "application/json",
+    "X-Kurio-Client-ID":"99",
+    "X-Kurio-Client-Secret":"S3VyaW9IYWNrYXRvbjIw",
+    "X-OS":"windows",
+    "X-App-Version":"0.0.1"
+}
